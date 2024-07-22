@@ -65,4 +65,4 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the backend repository
    ```sh
-   git clone https://github.com/sakthiveloo7/project-management-tool--F.git
+   git clone https://github.com/sakthiveloo7/project-management-tool.git
